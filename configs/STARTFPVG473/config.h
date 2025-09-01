@@ -18,7 +18,6 @@
  *
  * If not, see <http://www.gnu.org/licenses/>.
  */
-/*it's test file*/
 
 #pragma once
 
