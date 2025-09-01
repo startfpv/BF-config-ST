@@ -22,7 +22,7 @@
 
 #pragma once
 
-#define FC_TARGET_MCU     STM32G47X
+#define FC_TARGET_MCU     STM32G47xx
 
 #define BOARD_NAME STARTFPVG473
 #define MANUFACTURER_ID ST
